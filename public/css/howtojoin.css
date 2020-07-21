@@ -1,0 +1,38 @@
+main {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    font-family: Georgia, serif;
+  }
+  main h2 {
+    padding: 5px;
+  }
+  main .ig {
+    padding: 5px;
+    border: 0px;
+    font-size: 30px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    background-color: #bafc03;
+  }
+  main .fb {
+    padding: 5px;
+    border: 0px;
+    font-size: 30px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    background-color: #3106bf;
+    color: white;
+  }
+  @media screen and (max-width: 480px) {
+    body {
+      padding: 0;
+    }
+  }

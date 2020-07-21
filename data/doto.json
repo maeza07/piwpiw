@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 1,
+        "judul" : "tips and trick dota 2",
+        "head1" : "1. Tingkatkan Pengetahuan Tentang Game",
+        "body1" : "Dengan meningkatkan pengetahuan kamu tentang dota 2, kamu akan semakin menguasai dota 2",
+        "head2" : "2. Berlatih Last Hit, Denied, dan Agro",
+        "body2" : "Dengan memaksimalkan Last Hit, Denied, dan Agro kamu akan semakin menguasasi laning phase dan dapat memenangkan laning dengan sangat mudah",
+        "head3" : "3. Memiliki Map Awarness",
+        "body3" : "seberapa peka instingmu dalam bermain dota 2",
+        "head4" : "4. Pemahami mekanik, makro, dan mikro",
+        "body4" : "mempelajari mekanik, makro, dan mikro di dota2",
+        "head5" : "5. tryhard",
+        "body5" : "selalu berlatih sungguh - sungguh karena bakat tanpa usaha akan sia sia"
+    },
+    {
+        "id" : 2,
+        "judul" : "tips and trick Mobile Legend",
+        "head1" : "1. Tingkatkan Pengetahuan Tentang Game",
+        "body1" : "Dengan meningkatkan pengetahuan kamu tentang mobile legend, kamu akan semakin menguasai mobile legend",
+        "head2" : "2. Harus PMA",
+        "body2" : "tidak boleh toxic di dalam game, jika teammates toxic maka solusinya mute orang tersebut",
+        "head3" : "3. Memiliki Map Awarness",
+        "body3" : "seberapa peka instingmu dalam bermain mobile legend",
+        "head4" : "4. memahami mekanik, makro, dan mikro",
+        "body4" : "mempelajari mekanik, makro, dan mikro di mobile legend",
+        "head5" : "5. tryhard",
+        "body5" : "selalu berlatih sungguh - sungguh karena bakat tanpa usaha akan sia sia"
+    },
+    {
+        "id" : 3,
+        "judul" : "tips and trick PUBG Mobile",
+        "head1" : "1. Tingkatkan Pengetahuan Tentang Game",
+        "body1" : "Dengan meningkatkan pengetahuan kamu tentang PUBG Mobile, kamu akan semakin menguasai PUBG Mobile",
+        "head2" : "2. Berlatih Aim",
+        "body2" : "Latihlah aim kamu di training, itu akan membantu meningkatkan akurasi dari aim",
+        "head3" : "3. Pahami cara rotasi",
+        "body3" : "Dengan memahami cara rotasi yang benar, maka kamu akan dengan mudah mendapatkan WWCD",
+        "head4" : "4. Pahami Positioning Saat Tracking",
+        "body4" : "Dengan memahami positioning maka kamu akan dengan mudah mendapatkan knock ataupun kill ke musuh dan sebaliknya musuh akan kesulitan meng-knockmu",
+        "head5" : "5. tryhard",
+        "body5" : "selalu berlatih sungguh - sungguh karena bakat tanpa usaha akan sia sia"
+    }
+]
