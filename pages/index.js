@@ -6,7 +6,7 @@ function Beranda(){
       <Layout>
         <Menu />
         <link rel="stylesheet" href="/css/index.css" />
-        <img src="/images/homepage.jpg"/>
+        
         <main>
         <p>Kami siap mengedukasi dan membantu player Indonesia untuk menjadi lebih baik</p>
         </main>

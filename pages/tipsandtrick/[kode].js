@@ -1,7 +1,7 @@
 import Menu from '../../components/menu';
 import Layout from '../../layouts/layout';
 import dummyData from '../../data/doto.json';
-import DaftarTipsGame from '../../components/daftartipsgame'
+import DaftarTipsGame from '../../components/daftartipsgame';
 
 const Artikel = (props) => {
     return (
